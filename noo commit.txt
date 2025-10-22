@@ -1,0 +1,8 @@
+noo commit
+
+sometimes we don't want commit some files(like this file)
+그럴 때는 github desktop에서 해당 파일을 체크 해제하고 원하는 것만 올릴 수 있음
+그럼 커밋한 파일만 staging area에 올라가게 됨
+staging file이란 커밋할 파일을 의미함
+vscode에서는 소스 제어 확장에서 해당 파일 옆에 +, 화살표 아이콘이 있는데
+이 아이콘을 클릭하면 해당 파일을 staging area에 추가하거나 제거할 수 있음
