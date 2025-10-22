@@ -5,3 +5,4 @@
 '+'로 새로운 내용 추가됐다는 걸 보여줌
 
 Title: git for everone
+Subtitle: Hello how are you
