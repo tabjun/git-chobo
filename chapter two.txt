@@ -1,0 +1,2 @@
+(새로운 파일을 만들고 소스 제어 확장에 해당 파일에 U라고 뜸. 이건 아직 git에 등록되지 않은 파일이라는 뜻)
+Title: This is the second one!
