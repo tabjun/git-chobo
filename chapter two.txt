@@ -1,2 +1,5 @@
 (새로운 파일을 만들고 소스 제어 확장에 해당 파일에 U라고 뜸. 이건 아직 git에 등록되지 않은 파일이라는 뜻)
 Title: This is the second one!
+
+commit하고 다시 추가하는 법
+수동으로 add -> commit하던지 아니면 이전 commit을 수정하던지(amend 사용해서)
